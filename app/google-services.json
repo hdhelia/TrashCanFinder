@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "739031187309",
+    "firebase_url": "https://trashcan-database.firebaseio.com",
+    "project_id": "trashcan-database",
+    "storage_bucket": "trashcan-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739031187309:android:a1caa72f5c2ff1d0",
+        "android_client_info": {
+          "package_name": "com.example.harshal.trashbinfinderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739031187309-b3dvdpfutp93ga3ptbft7qnt5c08l8dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harshal.trashbinfinderapp",
+            "certificate_hash": "7593661d57b41bf9dd54020595e81f933c89c310"
+          }
+        },
+        {
+          "client_id": "739031187309-8uqqbp2680jb0s56ojjte7p3ebh333qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyCHYt3msShLBuVl1jWQUxT0qP5j9BbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739031187309-8uqqbp2680jb0s56ojjte7p3ebh333qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
